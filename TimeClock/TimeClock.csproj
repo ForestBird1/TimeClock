@@ -96,7 +96,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="client_secret_1094481865545-g2pn4tbu1ujhrrnsuk29484ork84mum9.apps.googleusercontent.com.json" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
